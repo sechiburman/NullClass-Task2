@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+tensorflow
+
+# Note: Make sure to download the following YOLO files:
+# yolov3.weights from https://pjreddie.com/media/files/yolov3.weights
+# yolov3.cfg from https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+# coco.names from https://github.com/pjreddie/darknet/blob/master/data/coco.names
